@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.0.9",
-    "minimumSchema":  28,
-    "downloadUrl":  "https://github.com/morphing73/mmerp-releases/releases/download/v1.0.0.9/MMERP-Aggiornamento-1.0.0.9.exe",
-    "sha256":  "d3b87741b6c27e01cc507b107d64abaf5cb4cde094beef84dba4fc9e0ef956ce",
-    "releaseNotesUrl":  "https://github.com/morphing73/mmerp-releases/releases/tag/v1.0.0.9"
+    "version":  "1.0.0.10",
+    "minimumSchema":  30,
+    "downloadUrl":  "https://github.com/morphing73/mmerp-releases/releases/download/v1.0.0.10/MMERP-Aggiornamento-1.0.0.10.exe",
+    "sha256":  "a1ac01ee8a02f4c6a11131ef9c49367d4eef4221ba085816791e5dc9a78a1fab",
+    "releaseNotesUrl":  "https://github.com/morphing73/mmerp-releases/releases/tag/v1.0.0.10"
 }
